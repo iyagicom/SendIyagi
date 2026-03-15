@@ -1,4 +1,5 @@
 # SendIyagi(센드이야기) v1.4.2
+![SendIyagi](sendiyagi2.png)
 
 A **lightweight, fast P2P file transfer and chat app** for Windows.
 
